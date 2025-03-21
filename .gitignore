@@ -1,0 +1,43 @@
+# Node modules e pacotes
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Diretórios de build e cache
+dist/
+dist-ssr/
+.vite/
+.vscode/
+.idea/
+output.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Dependências e configurações locais
+.env
+.env.local
+.env.*.local
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs e depurações
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
