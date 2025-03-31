@@ -40,6 +40,8 @@ Este template serve como base para os projetos do curso de Arte Digital ministra
 
 ## 🚀 Como Usar
 
+Faça o Fork deste repositório antes destes passos. Em seguida pode dar prosseguimento.
+
 ### 1️⃣ Clonar o repositório
 
 ```sh
